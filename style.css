@@ -8,6 +8,10 @@ h6 {
   font-family: 'Montserrat', sans-serif;
 }
 
+a {
+  text-decoration: none;
+}
+
 .w3-row-padding img {
   margin-bottom: 12px;
 }
